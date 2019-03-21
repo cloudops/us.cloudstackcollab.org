@@ -1,4 +1,4 @@
-baseurl = "http://us.cloudstackcollab.org/"
+baseURL = "http://us.cloudstackcollab.org/"
 languageCode = "en-us"
 title = "Apache CloudStack Collaboration Conference - USA"
 theme = "hugo-creative-theme"
